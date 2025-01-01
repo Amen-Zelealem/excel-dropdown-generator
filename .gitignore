@@ -6,3 +6,5 @@ __pycache__/
 
 # Virtual environment
 .venv
+config.bat
+node_modules
