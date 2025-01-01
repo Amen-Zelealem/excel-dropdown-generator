@@ -1,0 +1,8 @@
+# Ignore the following data
+
+data
+
+__pycache__/
+
+# Virtual environment
+.venv
